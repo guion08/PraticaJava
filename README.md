@@ -1,2 +1,2 @@
-# praticaJava
-Praticando programação em Java.
+# Pratica Java
+## Praticando programação em Java.
